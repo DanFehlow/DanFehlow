@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bem Vindo! Eu sou Daniel Fehlow 👋
 
-<!--
-**DanFehlow/DanFehlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 No momento estou estudando HTML, CSS e JS
 
-Here are some ideas to get you started:
+### Technologies
+<div style="margin-bottom: 25px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25px" width="25px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25px" width="25px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25px" width="25px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25px" width="25px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25px" width="25px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25px" width="25px" />
+</div>
+<div style="margin-top: 25px;">
+  <a href="https://github.com/DanFehlow">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanFehlow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanFehlow&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
