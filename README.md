@@ -1,6 +1,19 @@
 # Bem Vindo! Eu sou Daniel Fehlow 👋
 
-- 💻 No momento estou estudando HTML, CSS e JS
+- No momento estou estudando HTML, CSS e JS 💻
+- Gosto de plantas 🌱 
+- Gosto de livros relacionados a finanças e economia 💹 
+- Gosto de jogar video game 🎮
+
+
+
+
+
+
+
+
+
+
 
 ### Technologies
 <div style="margin-bottom: 25px;">
