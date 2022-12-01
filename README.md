@@ -1,8 +1,8 @@
 # Bem Vindo! Eu sou Daniel Fehlow 👋
 
-- No momento estou estudando HTML, CSS e JS 💻
+- No momento estou estudando JS, ReactJS e React Native 💻
 - Formado em Ciências Contábeis porém apaixonado por programação 👨‍💻
-- Gosto de plantas 🌱
+- Cursando Engenharia de Software
 - Gosto de livros relacionados a finanças e economia 💹 
 - Gosto de jogar video game 🎮
 
