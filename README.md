@@ -25,6 +25,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25px" width="25px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25px" width="25px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25px" width="25px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25px" width="25px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25px" width="25px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25px" width="25px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25px" width="25px" />
+  <img src="https://vitest.dev/logo-shadow.svg" height="25px" width="25px" />
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/resources/zustand.svg" height="25px" width="25px" />
+  
 </div>
 <div style="margin-top: 25px;">
   <a href="https://github.com/DanFehlow">
