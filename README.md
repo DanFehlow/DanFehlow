@@ -2,7 +2,7 @@
 # Welcome! I'm Daniel Fehlow 👋
 
 
-- I currently work as a Front End developer at PwC 💻
+- I currently work as a FullStack developer at PwC 💻
 - Postgraduate in Software Engineering and passionate about programming 👨‍💻
 - I like books related to finance and economics 💹
 - I like playing video games 🎮
